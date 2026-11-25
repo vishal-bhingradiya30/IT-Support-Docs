@@ -1,0 +1,3 @@
+Server Inventory
+Server 1: Web Server
+Server 2: Database Server

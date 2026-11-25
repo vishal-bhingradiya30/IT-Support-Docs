@@ -1,0 +1,3 @@
+IT Support Documentation
+Support Hours: 09:00 - 17:00
+Support Email: support@example.com
